@@ -1,0 +1,16 @@
+html {
+  overflow: auto;
+}
+
+.v-application {
+  background-color: #f4f4fc !important;
+}
+
+.v-input__slot {
+  padding: 20px !important;
+  border-radius: 16px !important;
+}
+
+.round {
+  border-radius: 16px !important;
+}
